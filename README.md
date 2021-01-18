@@ -1,5 +1,5 @@
 
-# Current Status
+# 🔭 I'm currently working on
 Building a US stock screener based on the financial statement from www.sec.gov.
 ![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
 
@@ -56,10 +56,10 @@ A python version financial report dumper with Pandas/Google Sheet API/. I also i
 * Apache Airflow
 
 ## Study
-* In order to solid my knowledge, I study these followings:
+In order to solid my knowledge, I study these followings:
 - Take NTHU online open course: [Operating system](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)
-- Study "Clean Code” by Robert C. Martin.
-- Study "Microservice Pattern" by Chris Richardson
-- Study "Microservices Security in Action" by Prabath Siriwardena and Nuwan Dias
-- Study "SOLID" by Khalil Stemmler
-- Study "Refactoring: Improving the Design of Existing Code” by Martin Fowler.
+- Study "[Clean Code](https://www.amazon.com/gp/product/B001GSTOAM/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)” by Robert C. Martin.
+- Study "[Microservice Pattern](https://livebook.manning.com/book/microservices-patterns)" by Chris Richardson
+- Study "[Microservices Security in Action](https://livebook.manning.com/book/microservices-security-in-action/appendix-a/136)" by Prabath Siriwardena and Nuwan Dias
+- Study "[SOLID](https://solidbook.io/)" by Khalil Stemmler
+- Study "[Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)” by Martin Fowler.
