@@ -1,3 +1,8 @@
+
+# Current Status
+Building a US stock screener based on the financial statement from www.sec.gov.
+![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
+
 # About Me
 I have experience in front-end development in the industry and a self-taught full-stack developer (study back-end and dev-ops).
 
@@ -26,7 +31,7 @@ Here are some ideas to get you started:
 ### [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
 ![](https://camo.githubusercontent.com/7568e4065731762af6316c308f71e03214008b27bd35b20064bc328f17ead31d/68747470733a2f2f692e696d6775722e636f6d2f7241664a4456462e706e67)
 A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Server/MongoDB/Redis/Nginx/Docker/K8S/TravisCI/Terraform
-### [US Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
+### [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
 ![](https://media-exp1.licdn.com/dms/image/C562DAQH9XaG2V-e3MQ/profile-treasury-image-shrink_1920_1920/0/1597585003429?e=1611046800&v=beta&t=JAlvZ-c8ioPLnUl2bS6bLiCK1SzDTv0Q6g8rUhjfUcw)
 A python version financial report dumper with Pandas/Google Sheet API/. I also implement various design pattern like: TableAbstractFactory/ScoreTableStrategy/BuyDecisionStrategy/InputPipeLine/APIMediator/OutputObserver/Chain of Responsibility/Builder
 
