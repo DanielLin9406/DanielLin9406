@@ -3,7 +3,7 @@
 Building a US stock screener based on the financial statement from www.sec.gov.
 ![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
 
-# About Me
+## About Me
 I have experience in front-end development in the industry and a self-taught full-stack developer (study back-end and dev-ops).
 
 My goal is that I can build anything as I want and becoming a software architect in this industry. After I have been worked for two years, I realized that I have to work on my own project first so that I could have more time to cover more comprehensive knowledge. In order to achieve this goal, I quit my job and study online to enhance my knowledge by studying algorithm and system design. In practice level, I strongly believe to build an enterprise level product from scratch is the best way and the only way to go.
@@ -24,9 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Design Principle
-* Injection Dependency, Highly Decouple components, Clean Architecture, SOLID principles and DDD best practices with event-driven design.
-
 ## Projects
 ### [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
 ![](https://camo.githubusercontent.com/7568e4065731762af6316c308f71e03214008b27bd35b20064bc328f17ead31d/68747470733a2f2f692e696d6775722e636f6d2f7241664a4456462e706e67)
@@ -44,27 +41,33 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
   * OutputObserver
   * Chain of Responsibility/Builder
 
-## Tech
-### Web Front End
-* React Ecosystem: React Router/Redux/Hooks/React SSR/Code splitting with dynamic import/webpack/typescript/express as hosting server
+## Tech Skills
+#### Front End
+➢ webpack/babel
+➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript
+➢ CSS/SCSS/Style Component/Materical UI
+➢ MVP/MVVM pattern
 
-### Back End
-* Golang
-* Typescript
-* Python
+#### Server
+➢ Golang Ecosystem: fasthttp/go-kit
+➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose
+➢ Python Ecosystem: Pandas
+➢ System Design Pattern: DDD/Clean Architecture
 
-### DB
-* PostgreSQL
-* MongoDB
+#### DB/Cache
+➢ PostgreSQL
+➢ MongoDB
+➢ Redis
 
-### Dev-Ops
-* docker/kubernete/ISTIO
-* Nginx
+#### Dev-Ops
+➢ Container: Docker
+➢ Kubernete Ecosystem: ISTIO
+➢ Reverse-Proxy: Nginx
 
-### Data Pipeline
-* Apache Airflow
+#### Data Pipeline
+➢ Apache Airflow
 
-## Study
+:book: ## Study Book List
 In order to solid my knowledge, I study these followings:
 - Take NTHU online open course: [Operating system](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)
 - Study "[Clean Code](https://www.amazon.com/gp/product/B001GSTOAM/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)” by Robert C. Martin.
