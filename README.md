@@ -67,7 +67,7 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
 #### Data Pipeline
 ➢ Apache Airflow
 
-:book: ## Study Book List
+## :book: Study Book List
 In order to solid my knowledge, I study these followings:
 - Take NTHU online open course: [Operating system](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)
 - Study "[Clean Code](https://www.amazon.com/gp/product/B001GSTOAM/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)” by Robert C. Martin.
