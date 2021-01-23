@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## 🧠  Tech Skills
 Front End <br/>
 ➢ webpack/babel <br/>
-➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript <br/>
+➢ React Ecosystem: React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript <br/>
 ➢ CSS/SCSS/Style Component/Materical UI <br/>
 ➢ MVP/MVVM pattern <br/>
  
@@ -65,6 +65,13 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
   * OutputObserver
   * Chain of Responsibility/Builder
 
+---
+
+## 👨‍🏫 Course Taken
+- Coursera: [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/account/accomplishments/certificate/C7ACADXGNPLD)
+- Udemy: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/certificate/UC-WB3SV3AQ/)
+- Udemy: [Node JS: Advanced Concepts](https://www.udemy.com/certificate/UC-8C375QVN/)
+- Udemy: [Node with React: Fullstack Web Development](http://ude.my/UC-YRA2BLTI)
 ---
 
 ## 📚 Study Book List
