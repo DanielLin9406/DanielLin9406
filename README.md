@@ -6,6 +6,7 @@ My goal is that I can build anything as I want and becoming a software architect
 ## 🔭 I'm currently working on
 Building a US stock screener based on the financial statement from www.sec.gov.
 ![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
+![](https://media-exp1.licdn.com/dms/image/C562DAQG0_C6uCfXS1A/profile-treasury-image-shrink_1280_1280/0/1598877605219?e=1611496800&v=beta&t=_oRNOCKmEJ_KdQu6fGEtrGxPUCdnTA1IYiGDUw4GI-A)
 
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
