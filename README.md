@@ -43,7 +43,7 @@ Server <br/>
 
 Dev-Ops <br/>
 ➢ Container: Docker/Docker-Compose <br/>
-➢ Kubernete Ecosystem: ISTIO <br/>
+➢ Kubernete Ecosystem: ISTIO/OPA <br/>
 ➢ Reverse-Proxy: Nginx <br/>
 
 Data Pipeline <br/>
