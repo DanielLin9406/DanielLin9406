@@ -1,9 +1,9 @@
 
-# 🔭 I'm currently working on
+## 🔭 I'm currently working on
 Building a US stock screener based on the financial statement from www.sec.gov.
 ![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
 
-## About Me
+## 👋 About Me
 I have experience in front-end development in the industry and a self-taught full-stack developer (study back-end and dev-ops).
 
 My goal is that I can build anything as I want and becoming a software architect in this industry. After I have been worked for two years, I realized that I have to work on my own project first so that I could have more time to cover more comprehensive knowledge. In order to achieve this goal, I quit my job and study online to enhance my knowledge by studying algorithm and system design. In practice level, I strongly believe to build an enterprise level product from scratch is the best way and the only way to go.
@@ -41,33 +41,29 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
   * OutputObserver
   * Chain of Responsibility/Builder
 
-## Tech Skills
-#### Front End
+## 🧠 Tech Skills
+#### 🖥️ Front End
 ➢ webpack/babel </br>
 ➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript </br>
 ➢ CSS/SCSS/Style Component/Materical UI </br>
 ➢ MVP/MVVM pattern </br>
  
-#### Server
+#### 💿 Server
 ➢ Golang Ecosystem: fasthttp/go-kit </br>
 ➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose </br>
 ➢ Python Ecosystem: Pandas </br>
 ➢ System Design Pattern: DDD/Clean Architecture </br>
+➢ DB/Cache: PostgreSQL/MongoDB/Redis
 
-#### DB/Cache
-➢ PostgreSQL </br>
-➢ MongoDB </br>
-➢ Redis </br>
-
-#### Dev-Ops
+#### 📦 Dev-Ops
 ➢ Container: Docker </br>
 ➢ Kubernete Ecosystem: ISTIO </br>
 ➢ Reverse-Proxy: Nginx </br>
 
-#### Data Pipeline
+#### 📊 Data Pipeline
 ➢ Apache Airflow </br>
 
-## :book: Study Book List
+## 📚 Study Book List
 In order to solid my knowledge, I study these followings:
 - Take NTHU online open course: [Operating system](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)
 - Study "[Clean Code](https://www.amazon.com/gp/product/B001GSTOAM/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)” by Robert C. Martin.
