@@ -25,10 +25,12 @@ Here are some ideas to get you started:
 -->
 ---
 ## 🧠  Tech Skills
+- 🔭 I’m currently working on ...
+
 Front End <br/>
 ➢ webpack/babel <br/>
 ➢ React Ecosystem: React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript <br/>
-➢ API: Axios/Apollo-client/GraphQL
+➢ API: Axios/Apollo-client/GraphQL <br/>
 ➢ CSS/SCSS/Style Component/Materical UI <br/>
 ➢ MVP/MVVM pattern <br/>
  
