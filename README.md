@@ -7,7 +7,7 @@ My goal is that I can build anything as I want and becoming a software architect
 Building a US stock screener based on the financial statement from www.sec.gov.
 
 System Context Diagram:
-![System Context Diagram](https://media-exp1.licdn.com/dms/image/C562DAQFi0yEToDeeGg/profile-treasury-image-shrink_800_800/0/1598349944673?e=1611496800&v=beta&t=lxJbD5hkZE-a-C5Of8A_EBagPXXgQGwMLPJ4xUd8FRE)
+![System Context Diagram](https://media-exp1.licdn.com/dms/image/C562DAQFi0yEToDeeGg/profile-treasury-image-shrink_8192_8192/0/1598349944673?e=1611496800&v=beta&t=lxJbD5hkZE-a-C5Of8A_EBagPXXgQGwMLPJ4xUd8FRE)
 
 Kubernetes System Design with Side-Care Pattern
 ![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
@@ -16,7 +16,7 @@ Business Use Case Diagrams in terms of Bounded Context in DDD terminology
 ![Bounded Context](https://media-exp1.licdn.com/dms/image/C562DAQH8k9IfrcqmqA/profile-treasury-image-shrink_800_800/0/1598535155966?e=1611496800&v=beta&t=Om9AoQ3uQLUZl4Qi0PEAzyVE9NCJSZv450tSKenrojs)
 
 Project source code structure
-![](https://media-exp1.licdn.com/dms/image/C562DAQGFifUTBOUxWA/profile-treasury-image-shrink_800_800/0/1611408838027?e=1611496800&v=beta&t=VxZ7yVkwyCdRJhq2FwJ2-9PN98ea7fd-fBS4WPw24Yk)
+![](https://media-exp1.licdn.com/dms/image/C562DAQGFifUTBOUxWA/profile-treasury-image-shrink_1920_1920/0/1611408838027?e=1611496800&v=beta&t=VxZ7yVkwyCdRJhq2FwJ2-9PN98ea7fd-fBS4WPw24Yk)
 
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
