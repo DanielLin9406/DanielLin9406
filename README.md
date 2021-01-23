@@ -43,29 +43,29 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
 
 ## Tech Skills
 #### Front End
-➢ webpack/babel
-➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript
-➢ CSS/SCSS/Style Component/Materical UI
-➢ MVP/MVVM pattern
-
+➢ webpack/babel </br>
+➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript </br>
+➢ CSS/SCSS/Style Component/Materical UI </br>
+➢ MVP/MVVM pattern </br>
+ 
 #### Server
-➢ Golang Ecosystem: fasthttp/go-kit
-➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose
-➢ Python Ecosystem: Pandas
-➢ System Design Pattern: DDD/Clean Architecture
+➢ Golang Ecosystem: fasthttp/go-kit </br>
+➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose </br>
+➢ Python Ecosystem: Pandas </br>
+➢ System Design Pattern: DDD/Clean Architecture </br>
 
 #### DB/Cache
-➢ PostgreSQL
-➢ MongoDB
-➢ Redis
+➢ PostgreSQL </br>
+➢ MongoDB </br>
+➢ Redis </br>
 
 #### Dev-Ops
-➢ Container: Docker
-➢ Kubernete Ecosystem: ISTIO
-➢ Reverse-Proxy: Nginx
+➢ Container: Docker </br>
+➢ Kubernete Ecosystem: ISTIO </br>
+➢ Reverse-Proxy: Nginx </br>
 
 #### Data Pipeline
-➢ Apache Airflow
+➢ Apache Airflow </br>
 
 ## :book: Study Book List
 In order to solid my knowledge, I study these followings:
