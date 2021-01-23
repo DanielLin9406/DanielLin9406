@@ -24,7 +24,30 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Projects
+## 🧠  Tech Skills
+#### 🖥️  Front End
+➢ webpack/babel </br>
+➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript </br>
+➢ CSS/SCSS/Style Component/Materical UI </br>
+➢ MVP/MVVM pattern </br>
+ 
+#### 💿  Server
+➢ Golang Ecosystem: fasthttp/go-kit </br>
+➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose </br>
+➢ Python Ecosystem: Pandas </br>
+➢ System Design Pattern: DDD/Clean Architecture </br>
+➢ DB/Cache: PostgreSQL/MongoDB/Redis
+
+#### 📦  Dev-Ops
+➢ Container: Docker </br>
+➢ Kubernete Ecosystem: ISTIO </br>
+➢ Reverse-Proxy: Nginx </br>
+
+#### 📊  Data Pipeline
+➢ Apache Airflow </br>
+
+
+## 📂 Projects
 ### [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
 ![](https://camo.githubusercontent.com/7568e4065731762af6316c308f71e03214008b27bd35b20064bc328f17ead31d/68747470733a2f2f692e696d6775722e636f6d2f7241664a4456462e706e67)
 A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Server/MongoDB/Redis/Nginx/Docker/K8S/TravisCI/Terraform
@@ -41,27 +64,6 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
   * OutputObserver
   * Chain of Responsibility/Builder
 
-## 🧠 Tech Skills
-#### 🖥️ Front End
-➢ webpack/babel </br>
-➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript </br>
-➢ CSS/SCSS/Style Component/Materical UI </br>
-➢ MVP/MVVM pattern </br>
- 
-#### 💿 Server
-➢ Golang Ecosystem: fasthttp/go-kit </br>
-➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose </br>
-➢ Python Ecosystem: Pandas </br>
-➢ System Design Pattern: DDD/Clean Architecture </br>
-➢ DB/Cache: PostgreSQL/MongoDB/Redis
-
-#### 📦 Dev-Ops
-➢ Container: Docker </br>
-➢ Kubernete Ecosystem: ISTIO </br>
-➢ Reverse-Proxy: Nginx </br>
-
-#### 📊 Data Pipeline
-➢ Apache Airflow </br>
 
 ## 📚 Study Book List
 In order to solid my knowledge, I study these followings:
