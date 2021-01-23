@@ -1,13 +1,11 @@
-
-## 🔭 I'm currently working on
-Building a US stock screener based on the financial statement from www.sec.gov.
-![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
-
 ## 👋 About Me
 I have experience in front-end development in the industry and a self-taught full-stack developer (study back-end and dev-ops).
 
 My goal is that I can build anything as I want and becoming a software architect in this industry. After I have been worked for two years, I realized that I have to work on my own project first so that I could have more time to cover more comprehensive knowledge. In order to achieve this goal, I quit my job and study online to enhance my knowledge by studying algorithm and system design. In practice level, I strongly believe to build an enterprise level product from scratch is the best way and the only way to go.
 
+## 🔭 I'm currently working on
+Building a US stock screener based on the financial statement from www.sec.gov.
+![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
 
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
