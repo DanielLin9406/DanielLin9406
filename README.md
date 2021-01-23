@@ -31,19 +31,19 @@ Front End
 ➢ CSS/SCSS/Style Component/Materical UI </br>
 ➢ MVP/MVVM pattern </br>
  
-#### 💿  Server
+Server
 ➢ Golang Ecosystem: fasthttp/go-kit </br>
 ➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose </br>
 ➢ Python Ecosystem: Pandas </br>
 ➢ System Design Pattern: DDD/Clean Architecture </br>
 ➢ DB/Cache: PostgreSQL/MongoDB/Redis
 
-#### 📦  Dev-Ops
+Dev-Ops
 ➢ Container: Docker </br>
 ➢ Kubernete Ecosystem: ISTIO </br>
 ➢ Reverse-Proxy: Nginx </br>
 
-#### 📊  Data Pipeline
+Data Pipeline
 ➢ Apache Airflow </br>
 
 ---
