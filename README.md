@@ -28,18 +28,20 @@ Here are some ideas to get you started:
 Front End <br/>
 ➢ webpack/babel <br/>
 ➢ React Ecosystem: React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript <br/>
+➢ API: Axios/Apollo-client/GraphQL
 ➢ CSS/SCSS/Style Component/Materical UI <br/>
 ➢ MVP/MVVM pattern <br/>
  
 Server <br/>
-➢ Golang Ecosystem: fasthttp/go-kit <br/>
-➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose <br/>
+➢ Golang Ecosystem: Fasthttp/Go-kit <br/>
+➢ Node.js Ecosystem: Express.js in Typescript/Apollo-Server/GraphQL/Chi+Mocha/Sequelize/Mongoose <br/>
 ➢ Python Ecosystem: Pandas <br/>
+➢ Microservice Ecosystem: Kafka <br/>
 ➢ System Design Pattern: DDD/Clean Architecture <br/>
 ➢ DB/Cache: PostgreSQL/MongoDB/Redis <br/>
 
 Dev-Ops <br/>
-➢ Container: Docker <br/>
+➢ Container: Docker/Docker-Compose <br/>
 ➢ Kubernete Ecosystem: ISTIO <br/>
 ➢ Reverse-Proxy: Nginx <br/>
 
