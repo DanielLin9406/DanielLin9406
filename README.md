@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 -->
 ---
 ## 🧠  Tech Skills
-- 🔭 I’m currently working on ...
 
 Front End <br/>
 ➢ webpack/babel <br/>
