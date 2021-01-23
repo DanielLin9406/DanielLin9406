@@ -15,6 +15,9 @@ Kubernetes System Design with Side-Care Pattern
 Business Use Case Diagrams in terms of Bounded Context in DDD terminology
 ![Bounded Context](https://media-exp1.licdn.com/dms/image/C562DAQH8k9IfrcqmqA/profile-treasury-image-shrink_800_800/0/1598535155966?e=1611496800&v=beta&t=Om9AoQ3uQLUZl4Qi0PEAzyVE9NCJSZv450tSKenrojs)
 
+Project source code structure
+![](https://media-exp1.licdn.com/dms/image/C562DAQGFifUTBOUxWA/profile-treasury-image-shrink_1920_1920/0/1611408838027?e=1611496800&v=beta&t=VxZ7yVkwyCdRJhq2FwJ2-9PN98ea7fd-fBS4WPw24Yk)
+
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
