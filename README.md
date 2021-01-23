@@ -23,29 +23,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 ## 🧠  Tech Skills
-### 🖥️  Front End
+#### 🖥️  Front End
 ➢ webpack/babel </br>
 ➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript </br>
 ➢ CSS/SCSS/Style Component/Materical UI </br>
 ➢ MVP/MVVM pattern </br>
  
-### 💿  Server
+#### 💿  Server
 ➢ Golang Ecosystem: fasthttp/go-kit </br>
 ➢ Node.js Ecosystem: Node.js in Typescript/Sequelize/Mongoose </br>
 ➢ Python Ecosystem: Pandas </br>
 ➢ System Design Pattern: DDD/Clean Architecture </br>
 ➢ DB/Cache: PostgreSQL/MongoDB/Redis
 
-### 📦  Dev-Ops
+#### 📦  Dev-Ops
 ➢ Container: Docker </br>
 ➢ Kubernete Ecosystem: ISTIO </br>
 ➢ Reverse-Proxy: Nginx </br>
 
-### 📊  Data Pipeline
+#### 📊  Data Pipeline
 ➢ Apache Airflow </br>
 
+---
 
 ## 📂 Projects
 ### [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
@@ -64,6 +65,7 @@ A full-stack price dashboard with Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Se
   * OutputObserver
   * Chain of Responsibility/Builder
 
+---
 
 ## 📚 Study Book List
 In order to solid my knowledge, I study these followings:
