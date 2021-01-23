@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 -->
 ---
 ## 🧠  Tech Skills
-- 🖥️  Front End
+Front End
 ➢ webpack/babel </br>
 ➢ React Ecosystem: React Hooks/React Router/Redux//React SSR/dynamic import/React in Typescript </br>
 ➢ CSS/SCSS/Style Component/Materical UI </br>
