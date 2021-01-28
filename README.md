@@ -7,7 +7,7 @@ My goal is that I can build anything as I want and becoming a software architect
 Building a US stock screener based on the financial statement from www.sec.gov.
 
 System Context Diagram:
-![System Context Diagram](https://media-exp1.licdn.com/dms/image/C562DAQFi0yEToDeeGg/profile-treasury-image-shrink_8192_8192/0/1598349944673?e=1611496800&v=beta&t=lxJbD5hkZE-a-C5Of8A_EBagPXXgQGwMLPJ4xUd8FRE)
+![System Context Diagram](https://drive.google.com/file/d/1excicd6K2y3cGkwYMkLdYqfht230wt92/view?usp=sharing)
 
 Kubernetes System Design with Side-Car Pattern
 ![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
