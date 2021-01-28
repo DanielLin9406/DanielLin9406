@@ -10,7 +10,7 @@ System Context Diagram:
 ![System Context Diagram](https://drive.google.com/uc?export=view&id=1excicd6K2y3cGkwYMkLdYqfht230wt92)
 
 Kubernetes System Design with Side-Car Pattern
-![](https://media-exp1.licdn.com/dms/image/C562DAQEqJr6YnoiD9g/profile-treasury-image-shrink_800_800/0/1601878254660?e=1611046800&v=beta&t=QemJrBbPJCBkm7tj9j1rr6mO6dFCbZjsLVmH9Vyb4-c)
+![](https://drive.google.com/uc?export=view&id=1StSSe0jNcYwLR3AgM70cLQ5VHALl2LFY)
 
 Business Use Case Diagrams in terms of Bounded Context in DDD terminology
 ![Bounded Context](https://media-exp1.licdn.com/dms/image/C562DAQH8k9IfrcqmqA/profile-treasury-image-shrink_800_800/0/1598535155966?e=1611496800&v=beta&t=Om9AoQ3uQLUZl4Qi0PEAzyVE9NCJSZv450tSKenrojs)
