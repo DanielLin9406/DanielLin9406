@@ -7,7 +7,7 @@ I have experience in front-end development in the industry and a self-taught ful
 My goal is that I can build anything as I want and becoming a software architect in this industry. After I have been worked for two years, I realized that I have to work on my own project first so that I could have more time to cover more comprehensive knowledge. In order to achieve this goal, I quit my job and study online to enhance my knowledge by studying algorithm and system design. In practice level, I strongly believe to build an enterprise level product from scratch is the best way and the only way to go.
 
 ## 🔭 𝗦𝗶𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗜'𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-Building a US stock screener based on the financial statement from www.sec.gov. This project means a lot for me. I can boost my career through this work in terms of technical knowledge and project management. See "Project: [Full-stack: [Lazy-stock-screener-demo]](#Full-stack:-[Price-dashboard])" section for more details.
+Building a US stock screener based on the financial statement from www.sec.gov. This project means a lot for me. I can boost my career through this work in terms of technical knowledge and project management. See "Project: [Full-stack: Lazy-stock-screener-demo](#Full-stack:-[Price-dashboard])" section for more details.
 
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
