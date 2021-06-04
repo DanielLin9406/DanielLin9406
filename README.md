@@ -7,7 +7,7 @@ I have experience in front-end development in the industry and a self-taught ful
 My goal is that I can build anything as I want and becoming a software architect in this industry. After I have been worked for two years, I realized that I have to work on my own project first so that I could have more time to cover more comprehensive knowledge. In order to achieve this goal, I quit my job and study online to enhance my knowledge by studying algorithm and system design. In practice level, I strongly believe to build an enterprise level product from scratch is the best way and the only way to go.
 
 ## 🔭 𝗦𝗶𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗜'𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-Building a US stock screener based on the financial statement from www.sec.gov. This project means a lot for me. I can boost my career through this work in terms of technical knowledge and project management. 
+Building a US stock screener based on the financial statement from www.sec.gov. This project means a lot for me. I can boost my career through this work in terms of technical knowledge and project management. See "Project: [Full-stack: [Lazy-stock-screener-demo]](#Full-stack:-[Price-dashboard])" section for more details.
 
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -53,7 +53,7 @@ Data Pipeline <br/>
 
 ## 📂 Projects
 ### Full-stack: [Lazy-stock-screener-demo](https://github.com/lazy-stock-screener-demo)
-A US stock screener based on the financial statement from www.sec.gov. Design a system from use-case/user story to CI/CD. It leverages all the ideas or principles listed in the following: highly decoupled components, event-driven design, and SOLID principles. A MVP pattern is in front-end with React Hooks; Using Clean Architecture and DDD best practices with Golang in the back-end; Data pipeline is built on top of Python with various design patterns. Everything is containerized with Docker and managed by Kubernetes, while Gitlab CI/CD helped me to deploy this project to the GKE. 
+A US stock screener based on the financial statement from www.sec.gov. Design a system from use-case/user story to CI/CD. It leverages all the ideas or principles listed in the following: highly decoupled components, event-driven design, and SOLID principles. A MVP pattern is in front-end with React Hooks; Using Clean Architecture and DDD best practices with Golang in the back-end; Data pipeline is built on top of Python with various design patterns. Everything is containerized with Docker and managed by Kubernetes, while Gitlab CI/CD helped me to deploy this project to the GKE. The main project is privated and on gitlab, therefore, only part of this project are demonstrated on github origanization.
 
 ### Full-stack: [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
 ![](https://camo.githubusercontent.com/7568e4065731762af6316c308f71e03214008b27bd35b20064bc328f17ead31d/68747470733a2f2f692e696d6775722e636f6d2f7241664a4456462e706e67)
