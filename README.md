@@ -31,7 +31,7 @@ Front End <br/>
 ➢ React Ecosystem: React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript <br/>
 ➢ API: Axios/Apollo-client/GraphQL <br/>
 ➢ CSS/SCSS/Style Component/Materical UI <br/>
-➢ MVP/MVVM pattern <br/>
+➢ MVP pattern <br/>
  
 Server <br/>
 ➢ Golang Ecosystem: Fasthttp <br/>
@@ -43,7 +43,7 @@ Server <br/>
 
 Dev-Ops <br/>
 ➢ Container: Docker/Docker-Compose <br/>
-➢ Kubernete Ecosystem: ISTIO/OPA <br/>
+➢ Kubernete Ecosystem: ISTIO <br/>
 ➢ Reverse-Proxy: Nginx <br/>
 
 Data Pipeline <br/>
