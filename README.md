@@ -35,19 +35,14 @@ Front End <br/>
  
 Server <br/>
 ➢ Golang Ecosystem: Fasthttp <br/>
-➢ Node.js Ecosystem: Express.js in Typescript/Apollo-Server/GraphQL/Chi+Mocha/Sequelize/Mongoose <br/>
+➢ Node.js Ecosystem: Express.js in Typescript/Chi+Mocha/Sequelize/Mongoose <br/>
 ➢ Python Ecosystem: Pandas <br/>
-➢ (TOLEARN)Microservice Ecosystem: Kafka <br/>
 ➢ System Design Pattern: DDD/Clean Architecture <br/>
 ➢ DB/Cache: PostgreSQL/MongoDB/Redis <br/>
 
 Dev-Ops <br/>
 ➢ Container: Docker/Docker-Compose <br/>
-➢ Kubernete Ecosystem: ISTIO <br/>
-➢ Reverse-Proxy: Nginx <br/>
-
-Data Pipeline <br/>
-➢ Apache Airflow <br/>
+➢ Reverse-Proxy: Traefik <br/>
 
 ---
 
