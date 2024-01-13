@@ -64,14 +64,3 @@ An internal SPA for the purpose of setting and reading prices in terms of each p
   * APIMediator
   * OutputObserver
   * Chain of Responsibility/Builder
-
----
-
-## 📚 Study Book List
-In order to solid my knowledge, I study these followings:
-- Take NTHU online open course: [Operating system](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)
-- Study "[Clean Code](https://www.amazon.com/gp/product/B001GSTOAM/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1)” by Robert C. Martin.
-- Study "[Microservice Pattern](https://livebook.manning.com/book/microservices-patterns)" by Chris Richardson
-- Study "[Microservices Security in Action](https://livebook.manning.com/book/microservices-security-in-action/appendix-a/136)" by Prabath Siriwardena and Nuwan Dias
-- Study "[SOLID](https://solidbook.io/)" by Khalil Stemmler
-- Study "[Refactoring: Improving the Design of Existing Code](https://martinfowler.com/books/refactoring.html)” by Martin Fowler.
