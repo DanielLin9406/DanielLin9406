@@ -67,15 +67,6 @@ An internal SPA for the purpose of setting and reading prices in terms of each p
 
 ---
 
-## 👨‍🏫 Courses Taken
-- [Preparing for Google Cloud Certification: Cloud Architect](https://www.coursera.org/account/accomplishments/professional-cert/U6BX55NLFAKQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
-- Udemy: [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/certificate/UC-WB3SV3AQ/)
-- Udemy: [Node JS: Advanced Concepts](https://www.udemy.com/certificate/UC-8C375QVN/)
-- Udemy: [Node with React: Fullstack Web Development](http://ude.my/UC-YRA2BLTI)
-- Full-stack developer course. 670hrs @Institute for Information Industry, Taiwan
-  (Relevant Coursework: Web design, HTML5, CSS and Javascript, PHP, SQL-database)
----
-
 ## 📚 Study Book List
 In order to solid my knowledge, I study these followings:
 - Take NTHU online open course: [Operating system](https://www.youtube.com/playlist?list=PLS0SUwlYe8czigQPzgJTH2rJtwm0LXvDX)
