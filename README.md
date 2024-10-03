@@ -55,8 +55,8 @@ A US stock screener based on the financial statement from www.sec.gov. Design a 
 An internal SPA for the purpose of setting and reading prices in terms of each product in the online shop. The tech stack is MERN (react-redux, node, express, mongoDB) with Docker/Kubernetes and system structure is based on microservice architecture. The details tech-stack are Webpack/SPA/Google OAuth2/Node/Mocha/Apollo Server/MongoDB/Redis/Nginx/Docker/K8S/TravisCI/Terraform.
 
 ### Data Pipeline: [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
-* A python version financial report dumper with Pandas/Google Sheet API/
-* I also implement various design pattern like: 
+A python version financial report dumper with Pandas/Google Sheet API/
+I explore various design pattern like: 
   * TableAbstractFactory
   * ScoreTableStrategy
   * BuyDecisionStrategy
