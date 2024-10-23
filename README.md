@@ -43,7 +43,7 @@ Dev-Ops <br/>
 
 ---
 
-## 📂 Projects
+## 📂 Portfolios
 ### Full-stack: [Lazy-stock-screener-demo](https://github.com/lazy-stock-screener-demo)
 A US stock screener based on the financial statement from www.sec.gov. Design a system from use-case/user story to CI/CD. It leverages all the ideas or principles listed in the following: highly decoupled components, event-driven design, and SOLID principles. A MVP pattern is in front-end with React Hooks; Using Clean Architecture and DDD best practices with Golang in the back-end; Data pipeline is built on top of Python with various design patterns. Everything is containerized with Docker and managed by Kubernetes, while Gitlab CI/CD helped me to deploy this project to the GKE. The main project is privated and on gitlab, therefore, only part of this project are demonstrated on github origanization.
 
