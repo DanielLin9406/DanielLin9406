@@ -1,10 +1,8 @@
-## 👋  𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-I am a Taiwanese. Please call me Daniel.
-I am a person who desires to meet new things, challenges and new ideas.
-I have experience in front-end development in the industry and a self-taught full-stack developer (study back-end and dev-ops). 
+## 👋 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
+I am a quick learner, able to grasp new concepts efficiently and effectively. In 2016, after obtaining a master’s degree in science, I decided to shift my career path and became a Software Engineer. After two years as a front-end developer and three years as a full-stack developer, I realized my foundational knowledge needed strengthening. In 2023, alongside starting my own project, I returned to school to study the fundamentals of computer science, which included problem decomposition, C++, database design, system design, algorithms, and data structures, among other topics.
 
-## 🤟  𝗖𝗮𝗿𝗲𝗲𝗿 𝗚𝗼𝗮𝗹
-My goal is that I can build anything as I want and becoming a software architect in this industry. After I have been worked for two years, I realized that I have to work on my own project first so that I could have more time to cover more comprehensive knowledge. In order to achieve this goal, I quit my job and study online to enhance my knowledge by studying algorithm and system design. In practice level, I strongly believe to build an enterprise level product from scratch is the best way and the only way to go.
+## 🤟 𝗖𝗮𝗿𝗲𝗲𝗿 𝗚𝗼𝗮𝗹
+My goal is to become a certified senior engineer, to think on a broader scale, and to lead my team with empathy. I aim to practice perspective-taking and make strategic trade-offs when working with limited resources. On the product side, I seek to translate abstract guiding principles into concrete, actionable steps and deliverables through constant communication and collaboration. Regarding my technical learning journey, I remain open-minded, with the ultimate goal of researching and selecting the most suitable solutions within the constraints of available resources.
 
 <!--
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
