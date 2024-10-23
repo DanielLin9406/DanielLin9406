@@ -196,3 +196,30 @@ Skills: Python · Google Sheet API
 ➢ DB/Cache: MongoDB  
  
 𝐒𝐤𝐢𝐥𝐥𝐬: JavaScript · Websocket · Nginx · Docker · Travis CI
+
+---
+### Front-End: [Mix Dan Studio](https://github.com/DanielLin9406/frontend-mixDanStudio)
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬? 
+- Refactored version of my very first website with OAuth 2.0 and Google Sheet API integrated.
+ 
+𝐇𝐨𝐰 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐮𝐧𝐢𝐪𝐮𝐞? 
+- The first task involved transforming a static website into a server-hosted one with third-party API integration.
+
+𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 
+- Multi-entry webpack
+- Write a replace image path webpack plugin
+- Implement OAuth 2.0 and API keys to authorize user.
+- Implement Google Sheet API
+ 
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥  
+➢ Webpack  
+➢ Pug template  
+➢ WebSocket by Socket  
+➢ Husky+Lint-stage  
+ 
+𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦
+➢ Express  
+➢ Google Sheet API  
+
+Skills: JavaScript · Google Sheet API · Node.js
