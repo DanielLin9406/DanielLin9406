@@ -153,9 +153,9 @@ Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framewor
 𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 
 - Leverage Pandas and various design patterns.  
   
-𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 
-𝘚𝘵𝘰𝘳𝘢𝘨𝘦 
-➢ Google Sheet 
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
+𝘚𝘵𝘰𝘳𝘢𝘨𝘦  
+➢ Google Sheet  
   
 𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦  
 ➢ Leverage design patterns such as Factory, Strategy, Mediator, Observer, Chain of Responsibility, and Builder. 
