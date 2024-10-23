@@ -44,7 +44,7 @@ Server
 ➢ Microservice Ecosystem: gRPC  
 ➢ DB/Cache: PostgreSQL, MongoDB, Redis  
 
-Dev-Ops
+Dev-Ops  
 ➢ Gitlab-CI  
 ➢ Container: Docker, Docker-Compose  
 ➢ Reverse-Proxy: Traefik  
@@ -65,7 +65,7 @@ Cloud
 𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗳𝗿𝗼𝗺 𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗼𝗽𝗹𝗲'𝘀 𝘀𝗶𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁?   
 - I started from use-case/user story and went all the way to CI/CD. 
 
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐏𝐚𝐫𝐭  
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞  
 - build autocomplete search with ternary search tree from ground up
 - TODO
 
@@ -108,9 +108,9 @@ Cloud
 - An internal SPA for the purpose of setting and reading prices in terms of each product in the online shop.
 
 𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗳𝗿𝗼𝗺 𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗼𝗽𝗹𝗲'𝘀 𝘀𝗶𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁?   
-- A complete full stack project
+- A complete full stack project   
 
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐏𝐚𝐫𝐭  
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞   
 - Implemented 3-party API of Google’s spreadsheet API with OAuth2/API keys authorization to my personal website.  
 
 𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮  
