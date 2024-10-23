@@ -58,7 +58,40 @@ Cloud
 
 ## 📂 Portfolios
 ### Full-stack: [Lazy-stock-screener-demo](https://github.com/lazy-stock-screener-demo)
-A US stock screener based on the financial statement from www.sec.gov. Design a system from use-case/user story to CI/CD. It leverages all the ideas or principles listed in the following: highly decoupled components, event-driven design, and SOLID principles. A MVP pattern is in front-end with React Hooks; Using Clean Architecture and DDD best practices with Golang in the back-end; Data pipeline is built on top of Python with various design patterns. Everything is containerized with Docker and managed by Kubernetes, while Gitlab CI/CD helped me to deploy this project to the GKE. The main project is privated and on gitlab, therefore, only part of this project are demonstrated on github origanization.
+
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
+- A US stock screener based on the financial statement from www.sec.gov.
+
+𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗳𝗿𝗼𝗺 𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗼𝗽𝗹𝗲'𝘀 𝘀𝗶𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁?   
+- I started from use-case/user story and went all the way to CI/CD. 
+
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐏𝐚𝐫𝐭  
+- build autocomplete search with ternary search tree from ground up
+- TODO
+
+𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 (/design-doc)  
+- The overall goal is to give freedom to apply different tech stack and avoid unnecessary interference between services or teams. All these features make it highly maintainable.
+- Highly decoupled components, event-driven design, and SOLID principles, using Clean Architecture and DDD best practices with GoLang in the back-end
+  
+𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
+𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (/customer-web)  
+- Custom Webpack+ Babel stack  
+- React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript  
+- Style Component/Materical UI 
+  
+𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦 (/stock-server)  
+- Golang Server  
+- DDD/Clean Architecture  
+- PostgreSQL, MongoDB  
+  
+𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦 (/data-pipeline)  
+- Follow standard ETL process
+
+𝐍𝐨𝐭𝐞:
+- The main project is private and on gitlab, therefore, only part of this project are demonstrated on github organization.
+
+𝐒𝐤𝐢𝐥𝐥𝐬: JavaScript · Docker · React.js · Kubernetes · Python · Golang · Bash
+
 
 ### Full-stack: [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
 ![](https://camo.githubusercontent.com/7568e4065731762af6316c308f71e03214008b27bd35b20064bc328f17ead31d/68747470733a2f2f692e696d6775722e636f6d2f7241664a4456462e706e67)
