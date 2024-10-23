@@ -87,12 +87,12 @@ Cloud
 𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦 (/data-pipeline)  
 ➢ Follow standard ETL process
 
-𝘋𝘦𝘷-𝘖𝘱𝘴
-➢ Gitlab-CI
-➢ Container: Docker
-➢ Kubernete
+𝘋𝘦𝘷-𝘖𝘱𝘴  
+➢ Gitlab-CI  
+➢ Container: Docker  
+➢ Kubernete  
 
-𝘊𝘭𝘰𝘶𝘥
+𝘊𝘭𝘰𝘶𝘥  
 ➢ GCP: GKE  
 
 𝐍𝐨𝐭𝐞:
