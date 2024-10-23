@@ -27,32 +27,32 @@ Languages:
 ➢ C++(prior exper.)  
 ➢ Python (prior exper.)
 
-System Design
-➢ System Design Pattern: DDD/Clean Architecture
-➢ Software Development Life Cycle (SDLC)
+System Design  
+➢ System Design Pattern: DDD/Clean Architecture  
+➢ Software Development Life Cycle (SDLC)  
 
-Front End
-➢ React Ecosystem: Hooks, Router, Redux, SSR, dynamic import, Typescript 
-➢ Tools: Webpack, Babel
-➢ API Client: Axio
-➢ Style: CSS, SCSS, Style Component, Materical UI
+Front End  
+➢ React Ecosystem: Hooks, Router, Redux, SSR, dynamic import, Typescript  
+➢ Tools: Webpack, Babel  
+➢ API Client: Axio  
+➢ Style: CSS, SCSS, Style Component, Materical UI  
  
-Server
-➢ Golang Ecosystem: Fasthttp, Gorm, MongoDriver 
-➢ Node.js Ecosystem: Express, Typescript, Chi+Mocha, Sequelize, Mongoose
-➢ Python Ecosystem: Pandas, Mongoengine, SQLalchemy
+Server  
+➢ Golang Ecosystem: Fasthttp, Gorm, MongoDriver  
+➢ Node.js Ecosystem: Express, Typescript, Chi+Mocha, Sequelize, Mongoose  
+➢ Python Ecosystem: Pandas, Mongoengine, SQLalchemy  
 ➢ Microservice Ecosystem: gRPC  
-➢ DB/Cache: PostgreSQL, MongoDB, Redis
+➢ DB/Cache: PostgreSQL, MongoDB, Redis  
 
 Dev-Ops
-➢ Gitlab-CI
-➢ Container: Docker, Docker-Compose
-➢ Reverse-Proxy: Traefik
-➢ Kubernete
+➢ Gitlab-CI  
+➢ Container: Docker, Docker-Compose  
+➢ Reverse-Proxy: Traefik  
+➢ Kubernete  
 
 Cloud  
-➢ GCP: Cloud Storage, VM, GKE  
-➢ AWS: S3, EC2
+➢ GCP: Cloud Storage, VM, GKE   
+➢ AWS: S3, EC2  
 
 ---
 
