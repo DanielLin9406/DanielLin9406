@@ -218,7 +218,7 @@ Skills: Python · Google Sheet API
 ➢ WebSocket by Socket  
 ➢ Husky+Lint-stage  
  
-𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦
+𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦  
 ➢ Express  
 ➢ Google Sheet API  
 
