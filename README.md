@@ -167,7 +167,7 @@ Skills: Python · Google Sheet API
 
 ---
 
-### [Email Sender Upgraded](https://github.com/DanielLin9406/fullstack-emailSender-upgraded)
+### Full-stack: [Email Sender Upgraded](https://github.com/DanielLin9406/fullstack-emailSender-upgraded)
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
 - Upgraded version of a email promotion and monitor system based on Stephergrinder's email sender. Solely to practice the cutting edge tech stack.
   
