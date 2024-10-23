@@ -75,17 +75,25 @@ Cloud
   
 𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
 𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (/customer-web)  
-- Custom Webpack+ Babel stack  
-- React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript  
-- Style Component/Materical UI 
+➢ Custom Webpack+ Babel stack  
+➢ React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript  
+➢ Style Component/Materical UI 
   
 𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦 (/stock-server)  
-- Golang Server  
-- DDD/Clean Architecture  
-- PostgreSQL, MongoDB  
+➢ Golang Server  
+➢ DDD/Clean Architecture  
+➢ PostgreSQL, MongoDB  
   
 𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦 (/data-pipeline)  
-- Follow standard ETL process
+➢ Follow standard ETL process
+
+𝘋𝘦𝘷-𝘖𝘱𝘴
+➢ Gitlab-CI
+➢ Container: Docker
+➢ Kubernete
+
+𝘊𝘭𝘰𝘶𝘥
+➢ GCP: GKE  
 
 𝐍𝐨𝐭𝐞:
 - The main project is private and on gitlab, therefore, only part of this project are demonstrated on github organization.
