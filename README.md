@@ -182,17 +182,17 @@ Skills: Python · Google Sheet API
 - Update api service file structure from technical role to self-contained components.
 - Refractor api service from common.js to ES6 import syntax
   
-𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
-𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 
-➢ Custom Webpack+ Babel stack 
-➢ React Hooks, React Router, Redux, dynamic import 
-➢ WebSocket by Socket 
-➢ Husky+Lint-stage 
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
+𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥  
+➢ Custom Webpack+ Babel stack  
+➢ React Hooks, React Router, Redux, dynamic import  
+➢ WebSocket by Socket  
+➢ Husky+Lint-stage  
   
-𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦 
-➢ Node.js Ecosystem: Express, Chi+Mocha, Mongoose 
-➢ WebSocket by Socket.io 
-➢ GraphQL by express-graphql or apollo-server 
-➢ DB/Cache: MongoDB 
+𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦  
+➢ Node.js Ecosystem: Express, Chi+Mocha, Mongoose  
+➢ WebSocket by Socket.io  
+➢ GraphQL by express-graphql or apollo-server  
+➢ DB/Cache: MongoDB  
  
 𝐒𝐤𝐢𝐥𝐥𝐬: JavaScript · Websocket · Nginx · Docker · Travis CI
