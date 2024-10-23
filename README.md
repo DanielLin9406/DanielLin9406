@@ -21,23 +21,38 @@ Here are some ideas to get you started:
 ---
 ## 🧠  Tech Skills
 
-Front End <br/>
-➢ webpack/babel <br/>
-➢ React Ecosystem: React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript <br/>
-➢ API: Axios/Apollo-client/GraphQL <br/>
-➢ CSS/SCSS/Style Component/Materical UI <br/>
-➢ MVP pattern <br/>
- 
-Server <br/>
-➢ Golang Ecosystem: Fasthttp <br/>
-➢ Node.js Ecosystem: Express.js in Typescript/Chi+Mocha/Sequelize/Mongoose <br/>
-➢ Python Ecosystem: Pandas <br/>
-➢ System Design Pattern: DDD/Clean Architecture <br/>
-➢ DB/Cache: PostgreSQL/MongoDB/Redis <br/>
+Languages:  
+➢ Javascript (expert)  
+➢ Golang (proficient)  
+➢ C++(prior exper.)  
+➢ Python (prior exper.)
 
-Dev-Ops <br/>
-➢ Container: Docker/Docker-Compose <br/>
-➢ Reverse-Proxy: Traefik <br/>
+System Design
+➢ System Design Pattern: DDD/Clean Architecture
+➢ Software Development Life Cycle (SDLC)
+
+Front End
+➢ React Ecosystem: Hooks, Router, Redux, SSR, dynamic import, Typescript 
+➢ Tools: Webpack, Babel
+➢ API Client: Axio
+➢ Style: CSS, SCSS, Style Component, Materical UI
+ 
+Server
+➢ Golang Ecosystem: Fasthttp, Gorm, MongoDriver 
+➢ Node.js Ecosystem: Express, Typescript, Chi+Mocha, Sequelize, Mongoose
+➢ Python Ecosystem: Pandas, Mongoengine, SQLalchemy
+➢ Microservice Ecosystem: gRPC  
+➢ DB/Cache: PostgreSQL, MongoDB, Redis
+
+Dev-Ops
+➢ Gitlab-CI
+➢ Container: Docker, Docker-Compose
+➢ Reverse-Proxy: Traefik
+➢ Kubernete
+
+Cloud  
+➢ GCP: Cloud Storage, VM, GKE  
+➢ AWS: S3, EC2
 
 ---
 
