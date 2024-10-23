@@ -140,12 +140,27 @@ Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framewor
 ---
 
 ### Data Pipeline: [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
-A python version financial report dumper with Pandas/Google Sheet API/
-I explore various design pattern like: 
-  * TableAbstractFactory
-  * ScoreTableStrategy
-  * BuyDecisionStrategy
-  * InputPipeLine
-  * APIMediator
-  * OutputObserver
-  * Chain of Responsibility/Builder
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
+- A pipeline to transform raw SEC financial reports into a customized version. 
+  
+𝐇𝐨𝐰 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐮𝐧𝐢𝐪𝐮𝐞? 
+- A pipeline that is independent of existing financial APIs. 
+
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞  
+- Use Python to build a SEC financial report data pipeline. 
+- Input is a raw financial report, while output is custom report on Google Excel.  
+
+𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 
+- Leverage Pandas and various design patterns.  
+  
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
+𝘚𝘵𝘰𝘳𝘢𝘨𝘦 
+➢ Google Sheet  
+  
+𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦  
+➢ Leverage design patterns such as Factory, Strategy, Mediator, Observer, Chain of Responsibility, and Builder. 
+
+𝐍𝐨𝐭𝐞:  
+- A complete version resides in the secFinancialReportScraper folder.  
+
+Skills: Python · Google Sheet API  
