@@ -1,10 +1,11 @@
+<!--
 ## 👋 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 I am a quick learner, able to grasp new concepts efficiently and effectively. In 2016, after obtaining a master’s degree in science, I decided to shift my career path and became a Software Engineer. After two years as a front-end developer and three years as a full-stack developer, I realized my foundational knowledge needed strengthening. In 2023, alongside starting my own project, I returned to school to study the fundamentals of computer science, which included problem decomposition, C++, database design, system design, algorithms, and data structures, among other topics.
 
 ## 🤟 𝗖𝗮𝗿𝗲𝗲𝗿 𝗚𝗼𝗮𝗹
 My goal is to become a certified senior engineer, to think on a broader scale, and to lead my team with empathy. I aim to practice perspective-taking and make strategic trade-offs when working with limited resources. On the product side, I seek to translate abstract guiding principles into concrete, actionable steps and deliverables through constant communication and collaboration. Regarding my technical learning journey, I remain open-minded, with the ultimate goal of researching and selecting the most suitable solutions within the constraints of available resources.
 
-<!--
+
 **DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -17,7 +18,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ---
 ## 🧠  Tech Skills
 
@@ -55,50 +56,26 @@ Cloud
 ➢ AWS: S3, EC2  
 
 ---
-
+-->
 ## 📂 Portfolios
-### Full-stack: [Lazy-stock-screener-demo](https://github.com/lazy-stock-screener-demo)
+### Full-stack: [LZStock](https://lzstock.app)
 
-𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
-- A US stock screener based on the financial statement from www.sec.gov.
+(Stage 1)
 
-𝗪𝗵𝗮𝘁 𝗺𝗮𝗸𝗲 𝘁𝗵𝗶𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁 𝗱𝗶𝗳𝗳𝗲𝗿𝗲𝗻𝘁 𝗳𝗿𝗼𝗺 𝗼𝘁𝗵𝗲𝗿 𝗽𝗲𝗼𝗽𝗹𝗲'𝘀 𝘀𝗶𝗱𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁?   
-- I started from use-case/user story and went all the way to CI/CD. 
+LZStock is a stock screener that saves you time to help you make decisions quickly. 
 
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞  
-- build autocomplete search with ternary search tree from ground up
-- TODO
+I personally 100% owned this product and built it singlehandedly within 100days. 
 
-𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 (/design-doc)  
-- The overall goal is to give freedom to apply different tech stack and avoid unnecessary interference between services or teams. All these features make it highly maintainable.
-- Highly decoupled components, event-driven design, and SOLID principles, using Clean Architecture and DDD best practices with GoLang in the back-end
-  
-𝗧𝗲𝗰𝗵 𝗦𝘁𝗮𝗰𝗸  
-𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (/customer-web)  
-➢ Custom Webpack+ Babel stack  
-➢ React Hooks/React Router/Redux/React SSR/dynamic import/React in Typescript  
-➢ Style Component/Materical UI 
-  
-𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦 (/stock-server)  
-➢ Golang Server  
-➢ DDD/Clean Architecture  
-➢ PostgreSQL, MongoDB  
-  
-𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦 (/data-pipeline)  
-➢ Follow standard ETL process
+Resources
+1. Visit the website and play: [LZstock](https://lzstock.app)
+2. Check the [LZStock tech blog](https://blog.lzstock.app) for these questions:
+ - Why does this journey matter? 
+ - What did I build?
+ - Why do these topics matter? 
 
-𝘋𝘦𝘷-𝘖𝘱𝘴  
-➢ Gitlab-CI  
-➢ Container: Docker  
-➢ Kubernete  
-
-𝘊𝘭𝘰𝘶𝘥  
-➢ GCP: GKE  
-
-𝐍𝐨𝐭𝐞:
-- The main project is private and on gitlab, therefore, only part of this project are demonstrated on github organization.
-
-𝐒𝐤𝐢𝐥𝐥𝐬: JavaScript · Docker · React.js · Kubernetes · Python · Golang · Bash
+Additional Links
+1. A brief introduction below LZStock in the project section. 
+2. My personal works for high-level concept [Daniellin's Work](https://daniellin.app#35)
 
 ---
 
