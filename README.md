@@ -60,7 +60,7 @@ Cloud
 ## 📂 Portfolios
 ### Full-stack: [LZStock](https://lzstock.app)
 
-(Stage 1)
+(Now is on Stage 1)
 
 LZStock is a stock screener that saves you time to help you make decisions quickly. 
 
