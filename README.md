@@ -75,7 +75,7 @@ Resources
 
 Additional Links
 1. A brief introduction below LZStock in the project section. 
-2. My personal works for high-level concept [Daniellin's Work](https://daniellin.app#35)
+2. My personal works for high-level concept of LZStock [Daniellin's Work](https://daniellin.app#35)
 
 ---
 
