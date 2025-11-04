@@ -69,9 +69,9 @@ I personally 100% owned this product and built it singlehandedly within 100days.
 Resources
 1. Visit the website and play: [LZstock](https://lzstock.app)
 2. Check the [LZStock tech blog](https://blog.lzstock.app/blog/introduction) for these questions:
- - Why does this journey matter? 
- - What did I build?
- - Why do these topics matter? 
+ - [Why does this journey matter?](https://blog.lzstock.app/blog/why-this-journey-matters)
+ - [What did I build?](https://blog.lzstock.app/blog/what-I-built)
+ - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter) working...
 
 Additional Links
 1. A brief introduction below LZStock in the project section. 
