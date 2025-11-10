@@ -107,12 +107,11 @@ Dev-Ops
 ➢ Container: Docker, Docker-Compose  
 ➢ Reverse-Proxy: Nginx  
 ➢ Terraform  
-➢ Kubernete  
 
 𝘊𝘭𝘰𝘶𝘥  
 ➢ AWS: ECS  
 
-Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framework) · Webpack · React.js · Kubernetes · Mongoose ODM · Nginx · Bash · Node.js
+Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framework) · Webpack · React.js · Mongoose ODM · Nginx · Bash · Node.js
 
 ---
 
