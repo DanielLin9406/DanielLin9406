@@ -105,6 +105,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - Check more details on Tech Blog
 
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
+
 𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (react-based)  
 ➢ Custom Webpack+ Babel stack  
 ➢  React Hooks/TanStack Router/Jotai/React in Typescript  
