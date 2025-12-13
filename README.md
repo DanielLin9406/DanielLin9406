@@ -28,9 +28,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
 - Visit LZStock tech blog:
   - [What and How I built?](https://blog.lzstock.app/blog/what-I-built) 
-  - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter)
-     - Working on this page...
-
+  - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter) 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 - Golang's type alias mechanism is suitable for DDD, as it allows defining rich domain types without the performance or memory footprint of creating complex structs.
 - The test strategy is enhanced by DDD because its domain objects are structured as self-contained units, facilitating straightforward unit testing without external dependencies.
@@ -57,23 +55,22 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (react-based)  
 ➢ Custom Webpack+ Babel stack  
 ➢  React Hooks/TanStack Router/Jotai/React in Typescript  
-➢ Static hosting on Vercel via CircleCI deployment.
+➢ Static hosting on Vercel via CircleCI deployment.  
   
 𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦 (golang-based microservices)  
 ➢ Golang gRPC Server  
-➢ FastHttp as a Gateway
-➢ WebSocket service with gRPC server stream to push session-based stock price
+➢ FastHttp as a Gateway  
+➢ WebSocket service with gRPC server stream to push session-based stock price  
 ➢ NATs-JetStream for async-communication  
 ➢ PostgreSQL, Redis  
 
-𝘋𝘦𝘷-𝘖𝘱𝘴
-➢ CircleCI
-➢ Terraform manage infrastructure configuration
-➢ Helm Chart handle deployments for each service
-➢ Gitlab Container Registry
-➢ K8S on GCP
-➢ GKE + CloudFlare + Vercel
-
+𝘋𝘦𝘷-𝘖𝘱𝘴  
+➢ CircleCI  
+➢ Terraform manage infrastructure configuration  
+➢ Helm Chart handle deployments for each service  
+➢ Gitlab Container Registry  
+➢ K8S on GCP  
+➢ GKE + CloudFlare + Vercel  
 
 
 ---
