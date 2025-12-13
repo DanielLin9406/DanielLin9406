@@ -28,7 +28,8 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
 - Visit LZStock tech blog:
   - [What and How I built?](https://blog.lzstock.app/blog/what-I-built) 
-  - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter) 
+  - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter)
+
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 - Golang's type alias mechanism is suitable for DDD, as it allows defining rich domain types without the performance or memory footprint of creating complex structs.
 - The test strategy is enhanced by DDD because its domain objects are structured as self-contained units, facilitating straightforward unit testing without external dependencies.
