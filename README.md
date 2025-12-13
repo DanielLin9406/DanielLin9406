@@ -101,7 +101,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - Investigated and applied common infrastructure-level principles, such as: Handling Failures, High Availability and Scalability, Networking and Protocols, Cloud and DevOps, Monitoring and Observability
 
 𝐋𝐨𝐰-𝐥𝐞𝐯𝐞𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧
-- Low-level design (LLD) topics expand upon high-level concepts, focusing primarily on coding-related aspects, design patterns, and best practices.
+- Low-level design topics expand upon high-level concepts, focusing primarily on coding-related aspects, design patterns, and best practices.
 - Check more details on Tech Blog
 
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 
