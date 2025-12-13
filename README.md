@@ -57,6 +57,13 @@ Cloud
 
 ---
 -->
+## In a hurry
+Top 3 projects that showcases my learning:
+1. [LZStock](#full-stack-lzstock)
+2. [Price Dashboard](#full-stack-price-dashboard)
+3. [Data Pipeline](#data-pipeline-us-stock-financial-report-dumper)
+
+
 ## 📂 Portfolios
 ### Full-stack: [LZStock](https://lzstock.app)
 
@@ -78,9 +85,8 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - Visit the website and play: [LZstock](https://lzstock.app)
 
 𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
-- Visit LZStock tech blog for more details [LZStock tech blog](https://blog.lzstock.app/blog/introduction) for these questions:
- - [Why does this journey matter?](https://blog.lzstock.app/blog/why-this-journey-matters)
- - [What and How I built?](https://blog.lzstock.app/blog/what-I-built)
+- Visit LZStock tech blog
+ - [What and How I built?](https://blog.lzstock.app/blog/what-I-built) 
  - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter) working...
 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
