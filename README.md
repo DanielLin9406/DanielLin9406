@@ -1,62 +1,3 @@
-<!--
-## 👋 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
-I am a quick learner, able to grasp new concepts efficiently and effectively. In 2016, after obtaining a master’s degree in science, I decided to shift my career path and became a Software Engineer. After two years as a front-end developer and three years as a full-stack developer, I realized my foundational knowledge needed strengthening. In 2023, alongside starting my own project, I returned to school to study the fundamentals of computer science, which included problem decomposition, C++, database design, system design, algorithms, and data structures, among other topics.
-
-## 🤟 𝗖𝗮𝗿𝗲𝗲𝗿 𝗚𝗼𝗮𝗹
-My goal is to become a certified senior engineer, to think on a broader scale, and to lead my team with empathy. I aim to practice perspective-taking and make strategic trade-offs when working with limited resources. On the product side, I seek to translate abstract guiding principles into concrete, actionable steps and deliverables through constant communication and collaboration. Regarding my technical learning journey, I remain open-minded, with the ultimate goal of researching and selecting the most suitable solutions within the constraints of available resources.
-
-
-**DanielLin9406/DanielLin9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
----
-## 🧠  Tech Skills
-
-Languages:  
-➢ Javascript (expert)  
-➢ Golang (proficient)  
-➢ C++(prior exper.)  
-➢ Python (prior exper.)
-
-System Design  
-➢ System Design Pattern: DDD/Clean Architecture  
-➢ Software Development Life Cycle (SDLC)  
-
-Front End  
-➢ React Ecosystem: Hooks, Router, Redux, SSR, dynamic import, Typescript  
-➢ Tools: Webpack, Babel  
-➢ API Client: Axio  
-➢ Style: CSS, SCSS, Style Component, Materical UI  
- 
-Server  
-➢ Golang Ecosystem: Fasthttp, Gorm, MongoDriver  
-➢ Node.js Ecosystem: Express, Typescript, Chi+Mocha, Sequelize, Mongoose  
-➢ Python Ecosystem: Pandas, Mongoengine, SQLalchemy  
-➢ Microservice Ecosystem: gRPC  
-➢ DB/Cache: PostgreSQL, MongoDB, Redis  
-
-Dev-Ops  
-➢ Gitlab-CI  
-➢ Container: Docker, Docker-Compose  
-➢ Reverse-Proxy: Traefik  
-➢ Kubernete  
-
-Cloud  
-➢ GCP: Cloud Storage, VM, GKE   
-➢ AWS: S3, EC2  
-
----
--->
 ## In a hurry
 Top 3 projects that showcases my learning:
 1. [LZStock](#full-stack-lzstock)
@@ -85,9 +26,10 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - Visit the website and play: [LZstock](https://lzstock.app)
 
 𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
-- Visit LZStock tech blog
- - [What and How I built?](https://blog.lzstock.app/blog/what-I-built) 
- - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter) working...
+- Visit LZStock tech blog:
+  - [What and How I built?](https://blog.lzstock.app/blog/what-I-built) 
+  - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter)
+     - Working on this page...
 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 - Golang's type alias mechanism is suitable for DDD, as it allows defining rich domain types without the performance or memory footprint of creating complex structs.
