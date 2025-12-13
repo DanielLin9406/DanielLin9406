@@ -64,17 +64,68 @@ Cloud
 
 LZStock is a stock screener that saves you time to help you make decisions quickly. 
 
-I personally 100% owned this product and built it singlehandedly within 100days. 
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?   
+- This is a self-initiated project built to demonstrate my comprehensive understanding of how to construct a fundamental, general-purpose, production-ready system.
+- I chose an interesting topic: A US stock screener based on financial statements sourced from www.sec.gov.
+- This project centers on developing a foundational framework, exploring best practices, and acquiring experience through genuine challenges.
 
-Resources
-1. Visit the website and play: [LZstock](https://lzstock.app)
-2. Check the [LZStock tech blog](https://blog.lzstock.app/blog/introduction) for these questions:
+𝐇𝐨𝐰 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐮𝐧𝐢𝐪𝐮𝐞?
+- Encompassed the entire development lifecycle, from initial design through to final deployment.
+- Leveraged DDD (Domain-Driven Design) to design the Domain and Bounded Context based on business requirements.
+- I personally owned this product and built it single-handedly within 100 days.
+
+𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞𝐬
+- Visit the website and play: [LZstock](https://lzstock.app)
+
+𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
+- Visit LZStock tech blog for more details [LZStock tech blog](https://blog.lzstock.app/blog/introduction) for these questions:
  - [Why does this journey matter?](https://blog.lzstock.app/blog/why-this-journey-matters)
- - [What did I build?](https://blog.lzstock.app/blog/what-I-built)
+ - [What and How I built?](https://blog.lzstock.app/blog/what-I-built)
  - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter) working...
 
-Additional Links
-1. My personal works for high-level concept of LZStock [Daniellin's Work](https://daniellin.app#35)
+𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
+- Golang's type alias mechanism is suitable for DDD, as it allows defining rich domain types without the performance or memory footprint of creating complex structs.
+- The test strategy is enhanced by DDD because its domain objects are structured as self-contained units, facilitating straightforward unit testing without external dependencies.
+
+𝐅𝐢𝐫𝐬𝐭 𝐒𝐭𝐚𝐠𝐞 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+- Smart Watchlists for flexible grouping
+- An autocomplete search with a ternary search tree from the ground up
+- Real-Time Tracking (mocking source)
+- Secure Authentication
+- Mobile-ready application
+
+𝐇𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧
+- A monorepo codebase with 15 Golang-based microservices deployable on Kubernetes (K8S)
+- High-level design is composed of application-level and infrastructure-level components.
+- Explored and implemented critical application-level topics, including: API Design and Versioning, Use Cases and Controllers, Data Query, Concurrency, Error Handling, Testing Strategies, Database Optimization and Selection, and Security.
+- Investigated and applied common infrastructure-level principles, such as: Handling Failures, High Availability and Scalability, Networking and Protocols, Cloud and DevOps, Monitoring and Observability
+
+𝐋𝐨𝐰-𝐥𝐞𝐯𝐞𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧
+- Low-level design (LLD) topics expand upon high-level concepts, focusing primarily on coding-related aspects, design patterns, and best practices.
+- Check more details on Tech Blog
+
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 
+𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (react-based)  
+➢ Custom Webpack+ Babel stack  
+➢  React Hooks/TanStack Router/Jotai/React in Typescript  
+➢ Static hosting on Vercel via CircleCI deployment.
+  
+𝘚𝘦𝘳𝘷𝘦𝘳 𝘚𝘪𝘥𝘦 (golang-based microservices)  
+➢ Golang gRPC Server  
+➢ FastHttp as a Gateway
+➢ WebSocket service with gRPC server stream to push session-based stock price
+➢ NATs-JetStream for async-communication  
+➢ PostgreSQL, Redis  
+
+𝘋𝘦𝘷-𝘖𝘱𝘴
+➢ CircleCI
+➢ Terraform manage infrastructure configuration
+➢ Helm Chart handle deployments for each service
+➢ Gitlab Container Registry
+➢ K8S on GCP
+➢ GKE + CloudFlare + Vercel
+
+
 
 ---
 
