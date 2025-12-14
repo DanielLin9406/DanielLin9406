@@ -44,7 +44,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 𝐇𝐢𝐠𝐡-𝐥𝐞𝐯𝐞𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧
 - A monorepo codebase with 15 Golang-based microservices deployable on Kubernetes (K8S)
 - High-level design is composed of application-level and infrastructure-level components.
-- Explored and implemented critical application-level topics, including: API Design and Versioning, Use Cases and Controllers, Data Query, Concurrency, Error Handling, Testing Strategies, Database Optimization and Selection, and Security.
+- Explored and implemented critical application-level topics, including: API Design and Versioning, Use Cases and Controllers, Algorithm, Data Query, Concurrency, Error Handling, Testing Strategies, Database Optimization and Selection, and Security.
 - Investigated and applied common infrastructure-level principles, such as: Handling Failures, High Availability and Scalability, Networking and Protocols, Cloud and DevOps, Monitoring and Observability
 
 𝐋𝐨𝐰-𝐥𝐞𝐯𝐞𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧
