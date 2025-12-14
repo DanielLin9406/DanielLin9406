@@ -46,13 +46,13 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - High-level design is composed of application-level and infrastructure-level components.
 - Explored and implemented critical application-level topics, including: API Design and Versioning, Use Cases and Controllers, Algorithm, Data Query, Concurrency, Error Handling, Testing Strategies, Database Optimization and Selection, and Security.
 - Investigated and applied common infrastructure-level principles, such as: Handling Failures, High Availability and Scalability, Networking and Protocols, Cloud and DevOps, Monitoring and Observability
+- For a detailed explanation of the 'what', please refer to the [LZStock Tech Blog](https://blog.lzstock.app/blog/what-I-built).
 
 𝐋𝐨𝐰-𝐥𝐞𝐯𝐞𝐥 𝐓𝐞𝐜𝐡𝐧𝐢𝐜𝐚𝐥 𝐃𝐞𝐬𝐢𝐠𝐧
 - Low-level design topics expand upon high-level concepts, focusing primarily on coding-related aspects, design patterns, and best practices.
-- Check more details on Tech Blog
+- For a detailed explanation of the 'what' and 'how,' please refer to the [LZStock Tech Blog](https://blog.lzstock.app/blog/what-I-built).  
 
-𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
-
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
 𝘍𝘳𝘰𝘯𝘵 𝘌𝘯𝘥 (react-based)  
 ➢ Custom Webpack+ Babel stack  
 ➢  React Hooks/TanStack Router/Jotai/React in Typescript  
