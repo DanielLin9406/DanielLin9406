@@ -1,6 +1,6 @@
 ## In a hurry
 Top 3 projects that showcases my learning:
-1. **[LZStock](#full-stack-lzstock)** (This is the most comprehensive one if you can only pick one) 
+1. **[LZStock](#full-stack-lzstock)** (This is the most comprehensive one if you have to pick one) 
 2. [Price Dashboard](#full-stack-price-dashboard)
 3. [Data Pipeline](#data-pipeline-us-stock-financial-report-dumper)
 
