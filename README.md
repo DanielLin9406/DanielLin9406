@@ -27,7 +27,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 
 𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
 - Visit LZStock tech blog:
-  - [What and How I built?](https://blog.lzstock.app/blog/what-I-built) 
+  - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** 
   - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter)
 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
