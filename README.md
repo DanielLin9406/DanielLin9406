@@ -1,6 +1,6 @@
 ## In a hurry
 Top 3 projects that showcases my learning:
-1. [LZStock](#full-stack-lzstock)
+1. **[LZStock](#full-stack-lzstock)** (This is the most comprehensive one if you can only pick one) 
 2. [Price Dashboard](#full-stack-price-dashboard)
 3. [Data Pipeline](#data-pipeline-us-stock-financial-report-dumper)
 
@@ -27,7 +27,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 
 𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
 - Visit LZStock tech blog:
-  - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** 
+  - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** (This is the only page you have to check if you have no time)  
   - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter)
 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
