@@ -1,8 +1,8 @@
 ## In a hurry
 Top 3 projects that showcases my learning:
 1. **[LZStock](#full-stack-lzstock)** (This is the one you must check if you have to pick one) 
-2. [Price Dashboard](#full-stack-price-dashboard)
-3. [Data Pipeline](#data-pipeline-us-stock-financial-report-dumper)
+2. [Data Pipeline](#data-pipeline-us-stock-financial-report-dumper)
+3. [Price Dashboard](#full-stack-price-dashboard)
 
 ## 📂 Portfolios
 ### Full-stack: [LZStock](https://lzstock.app)
@@ -75,6 +75,33 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 
 ---
 
+### Data Pipeline: [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
+𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
+- A streamlined data pipeline that leverages an ETL process to screen companies using raw financial data from Morningstar Excel files, outputting a range of first-level and second-level indicators directly to Google Sheets.
+
+𝐅𝐞𝐚𝐭𝐮𝐫𝐞  
+- Modular ETL Pipeline: A clean separation of concerns between Data Ingestion (Local/API), Transformation (Financial Indicator Calculation), and Loading (Google Sheets/Databases).
+- Advanced Financial Analysis: Implements various valuation models and indicators, including DCF, Graham Number, DDM, and more.
+
+𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 
+- Robust Design Pattern Implementation: The project leverages a wide array of design patterns (Factory, Observer, Command, Strategy, Builder, Mediator), reflecting advanced proficiency in software architecture and code maintainability.
+- Strict Separation of Concerns (SoC): Each architectural layer—from data sources and core calculations to the final delivery—is clearly defined, ensuring modularity and easier debugging.
+- Architected for Scalability: By prioritizing ABCs and Strategy patterns, the framework simplifies future enhancements, making it straightforward to add new financial indicators or complex valuation algorithms.
+  
+𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
+𝘚𝘵𝘰𝘳𝘢𝘨𝘦  
+➢ Google Sheet  
+  
+𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦  
+➢ Leverage design patterns such as Factory, Strategy, Mediator, Observer, Chain of Responsibility, and Builder. 
+
+𝐍𝐨𝐭𝐞:  
+- A complete version resides in the secFinancialReportScraper folder.  
+
+Skills: Python · Google Sheet API  
+
+---
+
 ### Full-stack: [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
 
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
@@ -108,33 +135,6 @@ Dev-Ops
 ➢ AWS: ECS  
 
 Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framework) · Webpack · React.js · Mongoose ODM · Nginx · Bash · Node.js
-
----
-
-### Data Pipeline: [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
-𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
-- A streamlined data pipeline that leverages an ETL process to screen companies using raw financial data from Morningstar Excel files, outputting a range of first-level and second-level indicators directly to Google Sheets.
-
-𝐅𝐞𝐚𝐭𝐮𝐫𝐞  
-- Modular ETL Pipeline: A clean separation of concerns between Data Ingestion (Local/API), Transformation (Financial Indicator Calculation), and Loading (Google Sheets/Databases).
-- Advanced Financial Analysis: Implements various valuation models and indicators, including DCF, Graham Number, DDM, and more.
-
-𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 
-- Robust Design Pattern Implementation: The project leverages a wide array of design patterns (Factory, Observer, Command, Strategy, Builder, Mediator), reflecting advanced proficiency in software architecture and code maintainability.
-- Strict Separation of Concerns (SoC): Each architectural layer—from data sources and core calculations to the final delivery—is clearly defined, ensuring modularity and easier debugging.
-- Architected for Scalability: By prioritizing ABCs and Strategy patterns, the framework simplifies future enhancements, making it straightforward to add new financial indicators or complex valuation algorithms.
-  
-𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
-𝘚𝘵𝘰𝘳𝘢𝘨𝘦  
-➢ Google Sheet  
-  
-𝘋𝘢𝘵𝘢 𝘗𝘪𝘱𝘦𝘭𝘪𝘯𝘦  
-➢ Leverage design patterns such as Factory, Strategy, Mediator, Observer, Chain of Responsibility, and Builder. 
-
-𝐍𝐨𝐭𝐞:  
-- A complete version resides in the secFinancialReportScraper folder.  
-
-Skills: Python · Google Sheet API  
 
 ---
 
