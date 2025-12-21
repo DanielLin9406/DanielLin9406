@@ -4,7 +4,6 @@ Top 3 projects that showcases my learning:
 2. [Price Dashboard](#full-stack-price-dashboard)
 3. [Data Pipeline](#data-pipeline-us-stock-financial-report-dumper)
 
-
 ## 📂 Portfolios
 ### Full-stack: [LZStock](https://lzstock.app)
 
@@ -114,17 +113,16 @@ Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framewor
 
 ### Data Pipeline: [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
-- A pipeline to transform raw SEC financial reports into a customized version. 
-  
-𝐇𝐨𝐰 𝐢𝐬 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐮𝐧𝐢𝐪𝐮𝐞? 
-- A pipeline that is independent of existing financial APIs. 
+- A streamlined data pipeline that leverages an ETL process to screen companies using raw financial data from Morningstar Excel files, outputting a range of first-level and second-level indicators directly to Google Sheets.
 
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞  
-- Use Python to build a SEC financial report data pipeline. 
-- Input is a raw financial report, while output is custom report on Google Excel.  
+- Modular ETL Pipeline: A clean separation of concerns between Data Ingestion (Local/API), Transformation (Financial Indicator Calculation), and Loading (Google Sheets/Databases).
+- Advanced Financial Analysis: Implements various valuation models and indicators, including DCF, Graham Number, DDM, and more.
 
 𝐓𝐞𝐜𝐡 𝐈𝗱𝗲𝗮 
-- Leverage Pandas and various design patterns.  
+- Robust Design Pattern Implementation: The project leverages a wide array of design patterns (Factory, Observer, Command, Strategy, Builder, Mediator), reflecting advanced proficiency in software architecture and code maintainability.
+- Strict Separation of Concerns (SoC): Each architectural layer—from data sources and core calculations to the final delivery—is clearly defined, ensuring modularity and easier debugging.
+- Architected for Scalability: By prioritizing ABCs and Strategy patterns, the framework simplifies future enhancements, making it straightforward to add new financial indicators or complex valuation algorithms.
   
 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤  
 𝘚𝘵𝘰𝘳𝘢𝘨𝘦  
