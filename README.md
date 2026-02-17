@@ -9,6 +9,13 @@ Top 3 projects that showcases my learning:
 
 LZStock is a stock screener that saves you time to help you make decisions quickly. 
 
+#### LZStock Tech blog
+- **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** (This is the only page you have to check if you have no time)  
+- [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter)
+
+#### LZStock Labs & Open Source
+- [LZStock Labs & Open Source](https://github.com/LZStock-OS)
+
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?   
 - This is a self-initiated project built to demonstrate my comprehensive understanding of how to construct a fundamental, general-purpose, production-ready system.
 - I chose an interesting topic: A US stock screener based on financial statements sourced from www.sec.gov.
@@ -18,17 +25,6 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - Encompassed the entire development lifecycle, from initial design through to final deployment.
 - Leveraged DDD (Domain-Driven Design) to design the Domain and Bounded Context based on business requirements.
 - I personally owned this product and built it single-handedly within 100 days.
-
-𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐖𝐞𝐛𝐬𝐢𝐭𝐞𝐬
-- Visit the website and play: [LZstock](https://lzstock.app)
-
-𝐓𝐞𝐜𝐡 𝐁𝐥𝐨𝐠
-- Visit LZStock tech blog:
-  - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** (This is the only page you have to check if you have no time)  
-  - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter)
-
-𝐂𝐨𝐫𝐞 𝐋𝐨𝐠𝐢𝐜 𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 & 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐢𝐧𝐠
-- Visit open source lab: [LZStock Labs & Open Source](https://github.com/LZStock-OS)
 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 - Golang's type alias mechanism is suitable for DDD, as it allows defining rich domain types without the performance or memory footprint of creating complex structs.
