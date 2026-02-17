@@ -7,8 +7,6 @@ Top 3 projects that showcases my learning:
 ## 📂 Portfolios
 ### Full-stack: [LZStock](https://lzstock.app)
 
-(Now is on Stage 1)
-
 LZStock is a stock screener that saves you time to help you make decisions quickly. 
 
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?   
@@ -28,6 +26,9 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - Visit LZStock tech blog:
   - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** (This is the only page you have to check if you have no time)  
   - [Why do these topics matter?(Working...)](https://blog.lzstock.app/blog/why-these-topics-matter)
+
+𝐂𝐨𝐫𝐞 𝐋𝐨𝐠𝐢𝐜 𝐃𝐞𝐜𝐨𝐮𝐩𝐥𝐢𝐧𝐠 & 𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐢𝐧𝐠
+- Visit open source lab: [LZStock Labs & Open Source](https://github.com/LZStock-OS)
 
 𝐈𝐧𝐭𝐞𝐫𝐞𝐬𝐭𝐢𝐧𝐠 𝐟𝐢𝐧𝐝𝐢𝐧𝐠𝐬
 - Golang's type alias mechanism is suitable for DDD, as it allows defining rich domain types without the performance or memory footprint of creating complex structs.
