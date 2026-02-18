@@ -5,7 +5,7 @@ Top 3 projects that showcases my learning:
 3. [Price Dashboard](#full-stack-price-dashboard)
 
 ## 📂 Portfolios
-### Full-stack: [LZStock](https://lzstock.app)
+### [LZStock](https://lzstock.app): A Full-stack, Production-Ready Product
 
 LZStock is a stock screener that saves you time to help you make decisions quickly. 
 
@@ -13,7 +13,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** (This is the only page you have to check if you have no time)  
 - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter)
 
-#### [LZStock Labs & Open Source](https://github.com/LZStock-OS)
+#### LZStock Labs & Open Source
 - [Service-guardian](https://github.com/LZStock-OS/service-guardian): a health check and service registration library written in GO
 
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?   
@@ -72,7 +72,7 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 
 ---
 
-### Data Pipeline: [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr)
+### [US Stock Financial Report Dumper](https://github.com/DanielLin9406/worker-financialReportScreenr): A Simple Data Pipeline
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
 - A streamlined data pipeline that leverages an ETL process to screen companies using raw financial data from Morningstar Excel files, outputting a range of first-level and second-level indicators directly to Google Sheets.
 
@@ -99,7 +99,7 @@ Skills: Python · Google Sheet API
 
 ---
 
-### Full-stack: [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard)
+### [Price Dashboard](https://github.com/DanielLin9406/fullstack-priceDashboard): A Full-stack Dashboard
 
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
 - An internal SPA for the purpose of setting and reading prices in terms of each product in the online shop.
@@ -135,7 +135,7 @@ Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framewor
 
 ---
 
-### Full-stack: [Email Sender Upgraded](https://github.com/DanielLin9406/fullstack-emailSender-upgraded)
+### [Email Sender Upgraded](https://github.com/DanielLin9406/fullstack-emailSender-upgraded): A Re-engineered & Feature-enhanced Product
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?  
 - Upgraded version of a email promotion and monitor system based on Stephergrinder's email sender. Solely to practice the cutting edge tech stack.
   
@@ -166,7 +166,7 @@ Skills: JavaScript · Docker · Redis · Travis CI · Mocha (JavaScript Framewor
 𝐒𝐤𝐢𝐥𝐥𝐬: JavaScript · Websocket · Nginx · Docker · Travis CI
 
 ---
-### Front-End: [Mix Dan Studio](https://github.com/DanielLin9406/frontend-mixDanStudio)
+### [Mix Dan Studio](https://github.com/DanielLin9406/frontend-mixDanStudio): My Personal Studio Website
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬? 
 - Refactored version of my very first website with OAuth 2.0 and Google Sheet API integrated.
  
