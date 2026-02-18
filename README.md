@@ -13,8 +13,8 @@ LZStock is a stock screener that saves you time to help you make decisions quick
 - **[What and How I built?](https://blog.lzstock.app/blog/what-I-built)** (This is the only page you have to check if you have no time)  
 - [Why do these topics matter?](https://blog.lzstock.app/blog/why-these-topics-matter)
 
-#### LZStock Labs & Open Source
-- [LZStock Labs & Open Source](https://github.com/LZStock-OS)
+#### [LZStock Labs & Open Source](https://github.com/LZStock-OS)
+- [Service-guardian](https://github.com/LZStock-OS/service-guardian): a health check and service registration library written in GO
 
 𝐖𝐡𝐚𝐭 𝐢𝐬 𝐭𝐡𝐢𝐬?   
 - This is a self-initiated project built to demonstrate my comprehensive understanding of how to construct a fundamental, general-purpose, production-ready system.
