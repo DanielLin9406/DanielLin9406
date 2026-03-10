@@ -1,2 +1,2 @@
-![](./Banner.png)
-[DANIELLIN.APP](https://daniellin.app)
+[![DANIELLIN.APP Banner](./Banner.png)](https://daniellin.app)
+
