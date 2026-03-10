@@ -1,2 +1,2 @@
 ![](./Banner.png)
-[Daniel Lin's Website](https://daniellin.app)
+[DANIELLIN.APP](https://daniellin.app)
